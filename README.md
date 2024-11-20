@@ -4,16 +4,16 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Eziefule_michael-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eziefule-michael-804a89110/)](https://www.linkedin.com/in/eziefule-michael-804a89110/) 
 [![Twitter Badge](https://img.shields.io/badge/-@EziefuleMichael-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/EziefuleMichael)](https://twitter.com/EziefuleMichael)
 
-I'm a Software Engineer, Content Creator, and Community Engineer who currently studying as a Developer at [AltSchool Africa](https://engineering.altschoolafrica.com/). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://techbrain.hashnode.dev/) and [Loom](https://www.loom.com/profile/Michael-cb93b253-73e2-42cc-a889-b099578a0bcc)), build useful [open-source projects](hhttps://github.com/mike-eziefule
-), speak at some meetups/conferences, build technical communities...
+I'm a Software Engineer, Content Creator, and Community Engineer. I am an Alumnus of [AltSchool Africa](https://engineering.altschoolafrica.com/). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, etc. I create technical content (on my [Blog](https://techbrain.hashnode.dev/) and [Loom](https://www.loom.com/profile/Michael-cb93b253-73e2-42cc-a889-b099578a0bcc)), build useful [open-source projects](hhttps://github.com/mike-eziefule
+), speak at some meetups/conferences, build technical communities.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying Backend Software Engineering at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
-- 🌱 I’m learning Python(Fastapi), HTML, CSS, JavaScript, Version Control(Git, Github, Technical writing) .
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Python Backend Engineer(Intern or Junior level).
+- 💡 Fun fact: I'm a Backend Software engineer, alumnus of AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
+- 🌱 My stack; Python(Fastapi), HTML5, CSS3, boothstrap, JavaScript, Version Control(Git, Github, Technical writing).
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: web developer, Software Engineer, Python Backend Engineer(Junior level).
 - 📫 You can [view my resume](https://deanofpython-portfolio.netlify.app/) and contact me by emailing mike.eziefule@gmail.com.
 
 ---
